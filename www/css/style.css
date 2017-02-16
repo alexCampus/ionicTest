@@ -1,0 +1,17 @@
+.a{
+	background-image: url('../img/fond.png');
+	background-size: 1950px 1200px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+
+}
+
+.coleur{
+	text-align: center;	
+}
+/* Extra Small Devices, Phones */
+    @media only screen and (max-width : 480px) {
+    	.a{
+    		background-size: 480px 800px;
+    	}
+    }
